@@ -1,0 +1,27 @@
+.gradient {
+  background: linear-gradient(130deg,#1F2833 20%,#66FCF1);
+  color: #fff;
+}
+
+.portfolio-navbar.navbar {
+  box-shadow: 0 4px 10px rgba(0,0,0,.1);
+  background-color: #0B0C10;
+}
+
+.btn-outline-primary {
+  color: #66FCF1;
+  border-color: #66FCF1;
+}
+
+.btn-primary {
+  color: #1F2833;
+  background-color: #45A29E;
+  border-color: #1F2833;
+}
+
+.btn-primary:hover {
+  color: #45A29E;
+  background-color: #1F2833;
+  border-color: #45A29E;
+}
+
